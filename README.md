@@ -1,6 +1,6 @@
 # Day-Night-Shift Project
 
-<a src="https://day-night-shift.netlify.app/"> LINK TO WEBSITE </a>
+Link: https://day-night-shift.netlify.app/
 
 Concept Project.
 - Originally themed around a flagship event of a chapter I am in, it turned into a personal project due to differences in requirements.
