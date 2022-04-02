@@ -1,0 +1,15 @@
+.AboutHackulus{
+    position: fixed;
+    bottom: -60%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 65vw;
+    .AboutHackulusText{
+        opacity: 0;
+        font-size: 25px;
+        text-align: center;
+        // line-height: 1em;
+        font-weight: 400;
+        padding-bottom: 45px;
+    }
+}

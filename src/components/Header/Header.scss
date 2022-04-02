@@ -1,0 +1,15 @@
+.Header{
+    height: 130px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 50px;
+    position: relative;
+    .Siam-logo{
+        position: absolute;
+        height: 50%;
+    }
+    .night{
+        opacity: 0;
+    }
+}
