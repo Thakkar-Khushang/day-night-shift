@@ -1,6 +1,7 @@
 # Day-Night-Shift Project
 
 Concept Project.
+- Originally themed around a flagship event of a chapter I am in, it turned into a personal project due to differences in requirements.
 
 I got interested in these animations when I saw a button and it transited the background from day to night.
 So, I decided to create a version of it from scratch.
